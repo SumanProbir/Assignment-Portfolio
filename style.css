@@ -4,7 +4,9 @@ body{
 
 .flexible-container{
     display: flex;
-    margin: 0;
+    margin-bottom: 60px;
+   
+    
 }
 
 .focus-text{
@@ -93,11 +95,58 @@ body{
     width: 30%;
 }
 
+
 .text-contain{
     font-size: 20px;
 }
 
 .para-contain{
     font-size: 16px;
+    text-align: justify;
+}
+
+.develop-section{
+    width: 50%;
+    margin-left: 100px;
+}
+
+
+.develop-section img{
+    width: 80%;
+}
+
+.develop-text{
+    width: 50%;
+    margin-right: 100px;
+}
+
+
+.develop-text h3{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+
+.develop-button{
+    font-size: 16px;
+    color: #fff;
+    background-color: #ff5959;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    
+}
+
+#develop-background{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 18%;
+    bac
+    
+}
+
+.develop-text p{
+    padding-bottom: 20px;
     text-align: justify;
 }
