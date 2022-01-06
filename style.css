@@ -12,7 +12,9 @@ body{
 .focus-text{
     font-size: 50px;
     font-weight: 700;
-    border-left: 5px solid #ff5959;
+    border-left: 5px solid #ff5959;  
+    padding-left: 10px;
+    
    
 }
 
@@ -37,7 +39,9 @@ body{
 }
 
 .mission-text p{
+    font-size: 16px;
     padding-bottom: 20px;
+    text-align: justify;
 }
 
 .mission-image{
@@ -194,12 +198,15 @@ body{
 }
 
 .develop-text p{
+    font-size: 16px;
     padding-bottom: 20px;
     text-align: justify;
+
 }
 
 
 .global-text p{
+    font-size: 16px;
     padding-bottom: 20px;
     text-align: justify;
 }
@@ -224,6 +231,7 @@ body{
 
 
 .contact-form p{
+    font-size: 16px;
     margin-top: -15px;
 }
 
@@ -323,5 +331,6 @@ body{
 }
 
 .footer-section p{
+    font-size: 16px;
     color: #fff;   
  }
