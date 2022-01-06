@@ -1,10 +1,6 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 .flexible-container{
@@ -284,10 +280,8 @@ body{
     padding-left: 10px;
     border: 1px solid #c7c7c5;
     margin-bottom: 30px;
-
     
 }
-
 
 .form-button{
     font-size: 16px;
@@ -301,8 +295,25 @@ body{
 
 .footer-section{
    background-color: #0b0d17;
-   height: 150px;
+   height: 250px;
+     
 }
+
 .footer-text{
     text-align: center;
 }
+
+.footer-text h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: #fff;
+    padding-top: 50px;
+ }
+
+.footer-text span{
+    color:#ff5959;    
+}
+
+.footer-section p{
+    color: #fff;   
+ }
