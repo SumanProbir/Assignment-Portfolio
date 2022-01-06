@@ -108,10 +108,23 @@ body{
 .develop-section{
     width: 50%;
     margin-left: 100px;
+    padding-bottom: 80px;
+}
+
+
+.global-section{
+    width: 50%;
+    margin-left: 100px;
+    padding-bottom: 80px;
 }
 
 
 .develop-section img{
+    width: 80%;
+}
+
+
+.global-section img{
     width: 80%;
 }
 
@@ -121,13 +134,35 @@ body{
 }
 
 
+.global-text{
+    width: 50%;
+    margin-left: 100px;
+}
+
 .develop-text h3{
     font-size: 40px;
     font-weight: 700;
 }
 
 
+.global-text h3{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+
 .develop-button{
+    font-size: 16px;
+    color: #fff;
+    background-color: #ff5959;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    
+}
+
+
+.global-button{
     font-size: 16px;
     color: #fff;
     background-color: #ff5959;
@@ -153,10 +188,17 @@ body{
     background-position: right;
     background-position-y: 300px;
     background-size: 18%;
+
         
 }
 
 .develop-text p{
+    padding-bottom: 20px;
+    text-align: justify;
+}
+
+
+.global-text p{
     padding-bottom: 20px;
     text-align: justify;
 }
