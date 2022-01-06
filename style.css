@@ -141,9 +141,19 @@ body{
     background-image: url(images/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
+    background-position-y: 50px;
     background-size: 18%;
-    bac
-    
+        
+}
+
+
+#global-background{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 300px;
+    background-size: 18%;
+        
 }
 
 .develop-text p{
