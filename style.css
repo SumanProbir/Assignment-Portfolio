@@ -223,6 +223,10 @@ body{
 }
 
 
+.contact-form p{
+    margin-top: -15px;
+}
+
 .contact-form h4{
     font-size: 22px;
 }
@@ -239,6 +243,10 @@ body{
        
 }
 
+.contact-section{
+    margin-bottom: 130px;
+}
+
 .text-form{
     font-size: 16px;
     width: 200px;
@@ -246,7 +254,7 @@ body{
     padding-left: 10px;
     border: 1px solid #c7c7c5;
     margin-bottom: 15px;
-    margin-right: 10px;
+    margin-right: 12px;
 }
 
 
@@ -307,7 +315,7 @@ body{
     font-size: 50px;
     font-weight: 700;
     color: #fff;
-    padding-top: 50px;
+    padding-top: 40px;
  }
 
 .footer-text span{
